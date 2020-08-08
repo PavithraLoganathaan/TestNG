@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [sample]">
+  <test thread-count="5" name="testcase1(failed)">
+    <classes>
+      <class name="RetryLis">
+        <methods>
+          <include name="testcase2"/>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- RetryLis -->
+    </classes>
+  </test> <!-- testcase1(failed) -->
+</suite> <!-- Failed suite [sample] -->
