@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2020-08-07T08:53:35 IST" finished-at="2020-08-07T08:53:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2020-08-07T08:53:35 IST" finished-at="2020-08-07T08:53:35 IST">
+      <class name="InvokationCount">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:InvokationCount@1f28c152]" name="testcase1" duration-ms="9" started-at="2020-08-07T08:53:35 IST" finished-at="2020-08-07T08:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:InvokationCount@1f28c152]" name="testcase1" duration-ms="1" started-at="2020-08-07T08:53:35 IST" finished-at="2020-08-07T08:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:InvokationCount@1f28c152]" name="testcase1" duration-ms="1" started-at="2020-08-07T08:53:35 IST" finished-at="2020-08-07T08:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- InvokationCount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
